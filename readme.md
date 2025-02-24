@@ -27,7 +27,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Higzzi/Bank-Bot.git
+   git clone https://github.com/higzzi/Bank-Bot.git
    cd Bank-Bot-bank
    ```
 
