@@ -27,8 +27,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/wickstudio/discord-bot-bank.git
-   cd discord-bot-bank
+   git clone https://github.com/Higzzi/Bank-Bot.git
+   cd Bank-Bot-bank
    ```
 
 2. **Install the dependencies:**
